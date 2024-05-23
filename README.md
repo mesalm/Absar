@@ -1,6 +1,6 @@
 
 
-#for test idea
+#for test idea without express
 
 # Movie Site Backend
 
@@ -20,6 +20,7 @@ This is the backend of a movie site built with Node.js. The backend provides API
 
 - [Node.js](https://nodejs.org/en/) (v12.x or higher)
 - [npm](https://www.npmjs.com/)
+- dotenv
 
 ### Installation
 
